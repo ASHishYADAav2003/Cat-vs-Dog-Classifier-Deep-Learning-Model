@@ -4,7 +4,7 @@ Cat vs Dog Image Classifier 🐱🐶 An end-to-end deep learning project that us
 
 An end-to-end deep learning project that uses a Convolutional Neural Network (CNN) to classify images as either **cat** or **dog**. 
 
----
+---------
 
 ## 🚀 Features:
 
@@ -16,7 +16,7 @@ An end-to-end deep learning project that uses a Convolutional Neural Network (CN
 - Predict on custom images
 - Easy-to-run scripts
 
----
+-----------
 
 ## 🛠️ Tech Stack:
 
